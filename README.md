@@ -4,7 +4,7 @@
 
 Quick Guide:
 
-##MSE
+## MSE
 
 1. Download the editor from [[Magic Set Editor]](http://magicseteditor.boards.net/page/downloads)
 2. unzip the download in a folder of your choice where you can find it.
@@ -12,13 +12,14 @@ Quick Guide:
 4. within the MSE app, open the set from the local git repo
 5. start working
 
-##GITHUB
+## GITHUB
 
 1. Download Github UI from [[Download]](https://central.github.com/deployments/desktop/desktop/latest/win32) and install it.
 2. create a github account and log into the app
 3. Ctrl + shift + O -> Tab Url -> put in "https://github.com/jay-tux/mohea.git" into the URL field and configure a path to download the repo to. (ex. "C:\Users\<user>\Documents\MTG\")
-4. In this new map, you'll find file "Mohea_PlaneOfAdventures.mse-set". Double click it and start editing
+4. In this new folder, you'll find file "Mohea_PlaneOfAdventures.mse-set". Double click it and start editing
 
+If you want to have local backup copies of any file, name them "filename_local.mse-set".
 
 Export cards only to the img/ directory.
 Please only work on the devel branch.
